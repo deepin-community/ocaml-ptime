@@ -1,5 +1,30 @@
-template-repository (1.0-1) unstable; urgency=medium
+ocaml-ptime (1.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Fix FTBFS on bytecode architectures
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Stéphane Glondu <glondu@debian.org>  Sat, 22 Jul 2023 23:16:23 +0200
+
+ocaml-ptime (1.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.6.2
+
+ -- Stéphane Glondu <glondu@debian.org>  Sat, 22 Jul 2023 13:08:45 +0200
+
+ocaml-ptime (1.0.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Stéphane Glondu <glondu@debian.org>  Mon, 21 Feb 2022 11:32:53 +0100
+
+ocaml-ptime (0.8.6-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Stéphane Glondu <glondu@debian.org>  Wed, 01 Dec 2021 11:01:38 +0100
+
+ocaml-ptime (0.8.5-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1000395)
+
+ -- Stéphane Glondu <glondu@debian.org>  Mon, 22 Nov 2021 16:58:09 +0100
