@@ -1,0 +1,8 @@
+@OCamlDllDir@/dll*.so
+@OCamlStdlibDir@/*/META
+@OCamlStdlibDir@/*/*.cma
+OPT: @OCamlStdlibDir@/*/*.cmxs
+@OCamlStdlibDir@/*/*/*.cma
+OPT: @OCamlStdlibDir@/*/*/*.cmxs
+@OCamlStdlibDir@/*/*/*/*.cma
+OPT: @OCamlStdlibDir@/*/*/*/*.cmxs

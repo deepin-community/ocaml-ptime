@@ -1,0 +1,18 @@
+@OCamlStdlibDir@/*/opam
+@OCamlStdlibDir@/*/*.mli
+@OCamlStdlibDir@/*/*.cmi
+@OCamlStdlibDir@/*/*.cmt*
+@OCamlStdlibDir@/*/*top*.ml
+OPT: @OCamlStdlibDir@/*/*.cmx
+OPT: @OCamlStdlibDir@/*/*.cmxa
+OPT: @OCamlStdlibDir@/*/*.a
+OPT: @OCamlStdlibDir@/*/*/*.cmx
+OPT: @OCamlStdlibDir@/*/*/*.cmxa
+OPT: @OCamlStdlibDir@/*/*/*.a
+@OCamlStdlibDir@/*/*/*/*.ml*
+@OCamlStdlibDir@/*/*/*/*.cmi
+@OCamlStdlibDir@/*/*/*/*.cmt*
+@OCamlStdlibDir@/*/*/*/*.js
+OPT: @OCamlStdlibDir@/*/*/*/*.cmx
+OPT: @OCamlStdlibDir@/*/*/*/*.cmxa
+@OCamlStdlibDir@/*/*/*/*.a
